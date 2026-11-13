@@ -1,0 +1,4 @@
+interface:
+  display_name: "中国拼贴视频导演"
+  short_description: "用国内可用工具完成中文纸片拼贴短视频的策划、配音与本地合成"
+  default_prompt: "使用 $cn-collage-video-director 制作一条30秒中文竖屏拼贴讲解视频。"

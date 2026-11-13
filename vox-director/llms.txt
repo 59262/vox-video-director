@@ -1,0 +1,10 @@
+# Vox Director
+
+Agent Skill for turning one topic into a paper-collage explainer or ad video.
+
+- Read `SKILL.md` for the workflow.
+- Read `SKILL.zh.md` for the Chinese workflow.
+- Read `references/` before preparing prompts.
+- Run the Python scripts in stages and finish with local FFmpeg assembly.
+
+The repository-specific homepage and author metadata are intentionally omitted from this clean source bundle.
